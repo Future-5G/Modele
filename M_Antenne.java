@@ -11,7 +11,8 @@ public class M_Antenne {
 	//Constantes
 	public static final double FREQUENCE = 0;
 	public static final int PUISSANCE_EMISSION = 0;
-
+	public static final int SENSIBILITE = 0;
+	public static final String POLARISATION = "inconnu";
 	
 	//variable de la classe
 	public static int cmpMAntenne = 0;
